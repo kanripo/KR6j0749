@@ -1,22 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:57.693934
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:53
 #+TITLE: 胎金兩界血脈
 #+PROPERTY: CBETA_ID X59n1074
 #+PROPERTY: ID KR6j0749
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 59, No. 1074
 #+PROPERTY: VOL 59
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0749_X_000-0214a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0749_X_001-0214a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
-No.1074¶
-
- 胎金兩界血脉¶
+No. 1074¶
+胎金兩界血脉¶
 
 大唐咸通六年八月十七日長安城左街慈恩寺造玄阿闍梨付屬師資血脉。¶
 
-胎藏界¶
+* 胎藏界¶
 
   
   * 大日¶
@@ -59,7 +58,7 @@ No.1074¶
   * 一行¶
   * 金剛智¶
 
-金剛界¶
+* 金剛界¶
 
   
   * 大日¶
